@@ -1,0 +1,231 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : DA_CONVERTOR.brd                              )
+(    Software Version : 17.2P019                                      )
+(    Date/Time        : Wed Jul 31 16:09:55 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.000 0.000)
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.39700                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.39700                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+
+     TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.63500                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.39700                                  DARK 
+  CIRCLE     1.52400                                  DARK 
+  CIRCLE     1.65100                                  DARK 
+  SQUARE     1.39700                     0.000 NO     DARK 
+  SQUARE     1.52400                     0.000 NO     DARK 
+
+     BOTTOM created with warnings
+
+
+================================================================
+     PROCESSING FILM < Soldermask_TOP >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/gerber/Soldermask_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     2.03200                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  SQUARE     1.90500                     0.000 NO     DARK 
+  SQUARE     2.03200                     0.000 NO     DARK 
+
+     Soldermask_TOP created.
+
+
+================================================================
+     PROCESSING FILM < Soldermask_BOTTOM >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/gerber/Soldermask_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.90500                                  DARK 
+  CIRCLE     2.03200                                  DARK 
+  CIRCLE     3.68300                                  DARK 
+  SQUARE     1.90500                     0.000 NO     DARK 
+  SQUARE     2.03200                     0.000 NO     DARK 
+
+     Soldermask_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < Silkscreen_TOP >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/gerber/Silkscreen_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-7.625 4.000)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text composed 0 width line found at (-6.256 19.412)
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     Silkscreen_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < Drill >
+     TO FILE < C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/gerber/Drill.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     Drill created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created with warnings
+        BOTTOM created with warnings
+        Soldermask_TOP created.
+        Soldermask_BOTTOM created.
+        Silkscreen_TOP created with warnings
+        Drill created.
+
+ ARTWORK had warnings

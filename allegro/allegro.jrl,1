@@ -1,0 +1,43 @@
+\t (00:00:07) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:07)     Journal start - Wed Jul 31 16:10:52 2019
+\t (00:00:07)         Host=SYJ User=user Pid=3632 CPUs=4
+\t (00:00:07) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:07) 
+   (00:00:07) Loading axlcore.cxt 
+\t (00:00:10) Opening existing design...
+\d (00:00:10) Design opened: C:/USERS/USER/DESKTOP/WORK/DA_CONVERTOR/allegro/DA_CONVERTOR.brd
+\i (00:00:10) trapsize 637
+\i (00:00:10) trapsize 652
+\i (00:00:10) trapsize 694
+\i (00:00:11) trapsize 711
+\i (00:00:11) etchedit 
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -19.530 -9.133
+\i (00:00:15) trapsize 1334
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -2.884 -63.990
+\i (00:00:15) trapsize 1334
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -2.351 -59.987
+\i (00:00:15) trapsize 1334
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -2.351 -58.653
+\i (00:00:15) trapsize 1334
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -27.700 44.079
+\i (00:00:16) trapsize 667
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in 31.804 25.267
+\i (00:00:17) trapsize 334
+\i (00:00:18) zoom out 1 
+\i (00:00:18) setwindow pcb
+\i (00:00:18) zoom out 31.871 25.134
+\i (00:00:18) trapsize 667
+\i (00:00:20) exit 
+\t (00:00:20)     Journal end - Wed Jul 31 16:11:04 2019
